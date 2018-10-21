@@ -1,0 +1,290 @@
+Source,Type,Target,Weight
+1-й горожанин,Undirected,1-я горожанка,1
+1-й горожанин,Undirected,1-я подруга,2
+1-й горожанин,Undirected,1-я подруга. ,1
+1-й горожанин,Undirected,2-й горожанин,6
+1-й горожанин,Undirected,2-й лакей,1
+1-й горожанин,Undirected,2-я горожанка,1
+1-й горожанин,Undirected,2-я подруга,2
+1-й горожанин,Undirected,2-я подруга..,1
+1-й горожанин,Undirected,3-й лакей,1
+1-й горожанин,Undirected,3-я подруга,2
+1-й горожанин,Undirected,Бургомистр,3
+1-й горожанин,Undirected,Все,4
+1-й горожанин,Undirected,Генрих,3
+1-й горожанин,Undirected,Генрих ,1
+1-й горожанин,Undirected,Горожане,1
+1-й горожанин,Undirected,Гости,1
+1-й горожанин,Undirected,Лакей,1
+1-й горожанин,Undirected,Ланцелот,2
+1-й горожанин,Undirected,Мальчик,5
+1-й горожанин,Undirected,Мальчик ,1
+1-й горожанин,Undirected,Разносчик,2
+1-й горожанин,Undirected,Садовник,5
+1-й горожанин,Undirected,Шарлемань,2
+1-й горожанин,Undirected,Эльза,3
+1-й погонщик,Undirected,2-й погонщик,1
+1-й погонщик,Undirected,3-й погонщик,1
+1-й погонщик,Undirected,4-й погонщик,1
+1-й погонщик,Undirected,5-й погонщик,1
+1-й погонщик,Undirected,Генрих,1
+1-й погонщик,Undirected,Дракон,1
+1-й погонщик,Undirected,Кот,1
+1-й погонщик,Undirected,Ланцелот,1
+1-й погонщик,Undirected,Осел,1
+1-я горожанка,Undirected,1-я подруга. ,1
+1-я горожанка,Undirected,2-й горожанин,1
+1-я горожанка,Undirected,2-я горожанка,1
+1-я горожанка,Undirected,2-я подруга..,1
+1-я горожанка,Undirected,3-я подруга,1
+1-я горожанка,Undirected,Бургомистр,1
+1-я горожанка,Undirected,Все,1
+1-я горожанка,Undirected,Генрих ,1
+1-я горожанка,Undirected,Мальчик ,1
+1-я горожанка,Undirected,Разносчик,1
+1-я горожанка,Undirected,Садовник,1
+1-я горожанка,Undirected,Шарлемань,1
+1-я подруга. ,Undirected,2-й горожанин,1
+1-я подруга. ,Undirected,2-я горожанка,1
+1-я подруга. ,Undirected,2-я подруга..,1
+1-я подруга. ,Undirected,3-я подруга,1
+1-я подруга. ,Undirected,Бургомистр,1
+1-я подруга. ,Undirected,Все,1
+1-я подруга. ,Undirected,Генрих ,1
+1-я подруга. ,Undirected,Мальчик ,1
+1-я подруга. ,Undirected,Разносчик,1
+1-я подруга. ,Undirected,Садовник,1
+1-я подруга. ,Undirected,Шарлемань,1
+1-я подруга,Undirected,2-й горожанин,1
+1-я подруга,Undirected,2-я подруга,3
+1-я подруга,Undirected,3-я подруга,2
+1-я подруга,Undirected,Гости,1
+1-я подруга,Undirected,Ланцелот,2
+1-я подруга,Undirected,Мальчик,2
+1-я подруга,Undirected,Садовник,2
+1-я подруга,Undirected,Эльза,3
+2-й горожанин,Undirected,2-й лакей,1
+2-й горожанин,Undirected,2-я горожанка,1
+2-й горожанин,Undirected,2-я подруга,1
+2-й горожанин,Undirected,2-я подруга..,1
+2-й горожанин,Undirected,3-й лакей,1
+2-й горожанин,Undirected,3-я подруга,2
+2-й горожанин,Undirected,Бургомистр,3
+2-й горожанин,Undirected,Все,4
+2-й горожанин,Undirected,Генрих,2
+2-й горожанин,Undirected,Генрих ,1
+2-й горожанин,Undirected,Гости,1
+2-й горожанин,Undirected,Лакей,1
+2-й горожанин,Undirected,Ланцелот,1
+2-й горожанин,Undirected,Мальчик,4
+2-й горожанин,Undirected,Мальчик ,1
+2-й горожанин,Undirected,Разносчик,2
+2-й горожанин,Undirected,Садовник,4
+2-й горожанин,Undirected,Шарлемань,2
+2-й горожанин,Undirected,Эльза,2
+2-й лакей,Undirected,3-й лакей,1
+2-й лакей,Undirected,Бургомистр,1
+2-й лакей,Undirected,Генрих,1
+2-й лакей,Undirected,Лакей,1
+2-й лакей,Undirected,Ланцелот,1
+2-й лакей,Undirected,Садовник,1
+2-й лакей,Undirected,Эльза,1
+2-й погонщик,Undirected,3-й погонщик,1
+2-й погонщик,Undirected,4-й погонщик,1
+2-й погонщик,Undirected,5-й погонщик,1
+2-й погонщик,Undirected,Генрих,1
+2-й погонщик,Undirected,Дракон,1
+2-й погонщик,Undirected,Кот,1
+2-й погонщик,Undirected,Ланцелот,1
+2-й погонщик,Undirected,Осел,1
+2-я горожанка,Undirected,2-я подруга..,1
+2-я горожанка,Undirected,3-я подруга,1
+2-я горожанка,Undirected,Бургомистр,1
+2-я горожанка,Undirected,Все,1
+2-я горожанка,Undirected,Генрих ,1
+2-я горожанка,Undirected,Мальчик ,1
+2-я горожанка,Undirected,Разносчик,1
+2-я горожанка,Undirected,Садовник,1
+2-я горожанка,Undirected,Шарлемань,1
+2-я подруга..,Undirected,3-я подруга,1
+2-я подруга..,Undirected,Бургомистр,1
+2-я подруга..,Undirected,Все,1
+2-я подруга..,Undirected,Генрих ,1
+2-я подруга..,Undirected,Мальчик ,1
+2-я подруга..,Undirected,Разносчик,1
+2-я подруга..,Undirected,Садовник,1
+2-я подруга..,Undirected,Шарлемань,1
+2-я подруга,Undirected,3-я подруга,2
+2-я подруга,Undirected,Гости,1
+2-я подруга,Undirected,Ланцелот,2
+2-я подруга,Undirected,Мальчик,2
+2-я подруга,Undirected,Садовник,2
+2-я подруга,Undirected,Эльза,3
+3-й лакей,Undirected,Бургомистр,1
+3-й лакей,Undirected,Генрих,1
+3-й лакей,Undirected,Лакей,1
+3-й лакей,Undirected,Ланцелот,1
+3-й лакей,Undirected,Садовник,1
+3-й лакей,Undirected,Эльза,1
+3-й погонщик,Undirected,4-й погонщик,1
+3-й погонщик,Undirected,5-й погонщик,1
+3-й погонщик,Undirected,Генрих,1
+3-й погонщик,Undirected,Дракон,1
+3-й погонщик,Undirected,Кот,1
+3-й погонщик,Undirected,Ланцелот,1
+3-й погонщик,Undirected,Осел,1
+3-я подруга,Undirected,Бургомистр,1
+3-я подруга,Undirected,Все,1
+3-я подруга,Undirected,Генрих ,1
+3-я подруга,Undirected,Гости,1
+3-я подруга,Undirected,Ланцелот,1
+3-я подруга,Undirected,Мальчик,1
+3-я подруга,Undirected,Мальчик ,1
+3-я подруга,Undirected,Разносчик,1
+3-я подруга,Undirected,Садовник,2
+3-я подруга,Undirected,Шарлемань,1
+3-я подруга,Undirected,Эльза,2
+4-й погонщик,Undirected,5-й погонщик,1
+4-й погонщик,Undirected,Генрих,1
+4-й погонщик,Undirected,Дракон,1
+4-й погонщик,Undirected,Кот,1
+4-й погонщик,Undirected,Ланцелот,1
+4-й погонщик,Undirected,Осел,1
+5-й погонщик,Undirected,Генрих,1
+5-й погонщик,Undirected,Дракон,1
+5-й погонщик,Undirected,Кот,1
+5-й погонщик,Undirected,Ланцелот,1
+5-й погонщик,Undirected,Осел,1
+Бургомистр ,Undirected,Генрих,1
+Бургомистр ,Undirected,Ланцелот,1
+Бургомистр ,Undirected,Слуги,1
+Бургомистр ,Undirected,Часовой,1
+Бургомистр ,Undirected,Шарлемань,1
+Бургомистр,Undirected,Все,2
+Бургомистр,Undirected,Генрих,11
+Бургомистр,Undirected,Генрих ,1
+Бургомистр,Undirected,Дракон,2
+Бургомистр,Undirected,Кот,1
+Бургомистр,Undirected,Кот ,1
+Бургомистр,Undirected,Кузнец,1
+Бургомистр,Undirected,Лакей,1
+Бургомистр,Undirected,Ланцелот,6
+Бургомистр,Undirected,Мальчик,2
+Бургомистр,Undirected,Мальчик ,1
+Бургомистр,Undirected,Музыкальных дел мастер,1
+Бургомистр,Undirected,Писцы,1
+Бургомистр,Undirected,Разносчик,1
+Бургомистр,Undirected,Садовник,2
+Бургомистр,Undirected,Ткачи,1
+Бургомистр,Undirected,Тюремщик,2
+Бургомистр,Undirected,Часовой,2
+Бургомистр,Undirected,Шапочных дел мастер,1
+Бургомистр,Undirected,Шарлемань,2
+Бургомистр,Undirected,Шарлемань ,1
+Бургомистр,Undirected,Эльза,6
+Все,Undirected,Генрих,1
+Все,Undirected,Генрих ,1
+Все,Undirected,Мальчик,3
+Все,Undirected,Мальчик ,1
+Все,Undirected,Разносчик,2
+Все,Undirected,Садовник,2
+Все,Undirected,Шарлемань,2
+Генрих ,Undirected,Дракон,1
+Генрих ,Undirected,Ланцелот,1
+Генрих ,Undirected,Мальчик ,1
+Генрих ,Undirected,Разносчик,1
+Генрих ,Undirected,Садовник,1
+Генрих ,Undirected,Шарлемань,1
+Генрих ,Undirected,Эльза,1
+Генрих,Undirected,Горожане,1
+Генрих,Undirected,Дракон,3
+Генрих,Undirected,Кот,1
+Генрих,Undirected,Кот ,1
+Генрих,Undirected,Кузнец,1
+Генрих,Undirected,Лакей,1
+Генрих,Undirected,Ланцелот,7
+Генрих,Undirected,Мальчик,2
+Генрих,Undirected,Музыкальных дел мастер,1
+Генрих,Undirected,Осел,2
+Генрих,Undirected,Писцы,1
+Генрих,Undirected,Садовник,1
+Генрих,Undirected,Слуги,1
+Генрих,Undirected,Ткачи,1
+Генрих,Undirected,Тюремщик,1
+Генрих,Undirected,Часовой,3
+Генрих,Undirected,Шапочных дел мастер,1
+Генрих,Undirected,Шарлемань,2
+Генрих,Undirected,Шарлемань ,1
+Генрих,Undirected,Эльза,5
+Генрих,Undirected,Эльза ,1
+Гости,Undirected,Мальчик,1
+Гости,Undirected,Садовник,1
+Гости,Undirected,Эльза,1
+Дракон ,Undirected,Кот ,1
+Дракон ,Undirected,Лакей,1
+Дракон ,Undirected,Ланцелот,1
+Дракон ,Undirected,Шарлемань,1
+Дракон ,Undirected,Эльза,1
+Дракон,Undirected,Кот,2
+Дракон,Undirected,Кот ,1
+Дракон,Undirected,Ланцелот,6
+Дракон,Undirected,Осел,2
+Дракон,Undirected,Часовой,1
+Дракон,Undirected,Шарлемань,1
+Дракон,Undirected,Эльза,2
+Кот ,Undirected,Лакей,1
+Кот ,Undirected,Ланцелот,3
+Кот ,Undirected,Осел,1
+Кот ,Undirected,Шарлемань,1
+Кот ,Undirected,Эльза,2
+Кот,Undirected,Ланцелот,4
+Кот,Undirected,Осел,1
+Кот,Undirected,Часовой,1
+Кот,Undirected,Шарлемань,1
+Кот,Undirected,Эльза ,1
+Кузнец,Undirected,Ланцелот,1
+Кузнец,Undirected,Музыкальных дел мастер,1
+Кузнец,Undirected,Ткачи,1
+Кузнец,Undirected,Шапочных дел мастер,1
+Кузнец,Undirected,Эльза,1
+Лакей,Undirected,Ланцелот,2
+Лакей,Undirected,Садовник,1
+Лакей,Undirected,Шарлемань,1
+Лакей,Undirected,Эльза,2
+Ланцелот,Undirected,Мальчик,1
+Ланцелот,Undirected,Музыкальных дел мастер,1
+Ланцелот,Undirected,Осел,2
+Ланцелот,Undirected,Садовник,2
+Ланцелот,Undirected,Слуги,1
+Ланцелот,Undirected,Ткачи,1
+Ланцелот,Undirected,Часовой,2
+Ланцелот,Undirected,Шапочных дел мастер,1
+Ланцелот,Undirected,Шарлемань,4
+Ланцелот,Undirected,Эльза,9
+Ланцелот,Undirected,Эльза ,2
+Мальчик ,Undirected,Разносчик,1
+Мальчик ,Undirected,Садовник,1
+Мальчик ,Undirected,Шарлемань,1
+Мальчик,Undirected,Писцы,1
+Мальчик,Undirected,Разносчик,1
+Мальчик,Undirected,Садовник,3
+Мальчик,Undirected,Шарлемань,1
+Мальчик,Undirected,Эльза,3
+Музыкальных дел мастер,Undirected,Ткачи,1
+Музыкальных дел мастер,Undirected,Шапочных дел мастер,1
+Музыкальных дел мастер,Undirected,Эльза,1
+Писцы,Undirected,Эльза,1
+Разносчик,Undirected,Садовник,2
+Разносчик,Undirected,Шарлемань,1
+Садовник,Undirected,Шарлемань,1
+Садовник,Undirected,Эльза,3
+Слуги,Undirected,Часовой,1
+Слуги,Undirected,Шарлемань,1
+Ткачи,Undirected,Шапочных дел мастер,1
+Ткачи,Undirected,Эльза,1
+Тюремщик,Undirected,Шарлемань ,1
+Часовой,Undirected,Шарлемань,1
+Часовой,Undirected,Эльза ,1
+Шапочных дел мастер,Undirected,Эльза,1
+Шарлемань,Undirected,Эльза,3
+Шарлемань,Undirected,Эльза ,1
